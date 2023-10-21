@@ -1,0 +1,14 @@
+.service{
+
+    text-align: center;
+    color: bisque;
+} 
+.service {
+
+    float: left;
+    width: 20%;
+    background: rgba(137, 43, 226, 0.505);
+}
+.clearfix{
+clear:left ;
+}
